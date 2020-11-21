@@ -1,2 +1,2 @@
-# Computer Vision(Fall 2020)
+# Color Range
 Image processing examples using OpenCV2-Python
